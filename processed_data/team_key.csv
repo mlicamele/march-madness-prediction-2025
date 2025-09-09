@@ -1,0 +1,769 @@
+,YEAR,TEAM,SEED,ROUND
+1147,2025,Akron,13,64
+1146,2025,Alabama,2,0
+1145,2025,Alabama St.,16,64
+1143,2025,Arizona,4,0
+1142,2025,Arkansas,10,0
+1141,2025,Auburn,1,0
+1140,2025,Baylor,9,32
+1139,2025,Bryant,15,64
+1138,2025,BYU,6,0
+1137,2025,Clemson,5,64
+1136,2025,Colorado St.,12,32
+1135,2025,Connecticut,8,32
+1134,2025,Creighton,9,32
+1133,2025,Drake,11,32
+1132,2025,Duke,1,0
+1131,2025,Florida,1,0
+1130,2025,Georgia,9,64
+1129,2025,Gonzaga,8,32
+1128,2025,Grand Canyon,13,64
+1127,2025,High Point,13,64
+1126,2025,Houston,1,0
+1125,2025,Illinois,6,32
+1124,2025,Iowa St.,3,32
+1123,2025,Kansas,7,64
+1122,2025,Kentucky,3,0
+1121,2025,Liberty,12,64
+1120,2025,Lipscomb,14,64
+1119,2025,Louisville,8,64
+1118,2025,Marquette,7,64
+1117,2025,Maryland,4,0
+1116,2025,McNeese St.,12,32
+1115,2025,Memphis,5,64
+1114,2025,Michigan,5,0
+1113,2025,Michigan St.,2,0
+1112,2025,Mississippi,6,0
+1111,2025,Mississippi St.,8,64
+1110,2025,Missouri,6,64
+1109,2025,Montana,14,64
+1108,2025,Mount St. Mary's,16,64
+1107,2025,Nebraska Omaha,15,64
+1106,2025,New Mexico,10,32
+1105,2025,Norfolk St.,16,64
+1104,2025,North Carolina,11,64
+1103,2025,Oklahoma,9,64
+1102,2025,Oregon,5,32
+1101,2025,Purdue,4,0
+1100,2025,Robert Morris,15,64
+1098,2025,Saint Mary's,7,32
+1096,2025,SIU Edwardsville,16,64
+1095,2025,St. John's,2,32
+1094,2025,Tennessee,2,0
+1092,2025,Texas A&M,4,32
+1091,2025,Texas Tech,3,0
+1090,2025,Troy,14,64
+1089,2025,UC San Diego,12,64
+1088,2025,UCLA,7,32
+1087,2025,UNC Wilmington,14,64
+1086,2025,Utah St.,10,64
+1085,2025,Vanderbilt,10,64
+1084,2025,VCU,11,64
+1083,2025,Wisconsin,3,32
+1082,2025,Wofford,15,64
+1081,2025,Xavier,11,64
+1080,2025,Yale,13,64
+1079,2024,Akron,14,64
+1078,2024,Alabama,4,4
+1077,2024,Arizona,2,16
+1076,2024,Auburn,4,64
+1075,2024,Baylor,3,32
+1073,2024,BYU,6,64
+1072,2024,Clemson,6,8
+1071,2024,Colgate,14,64
+1070,2024,College of Charleston,13,64
+1069,2024,Colorado,10,32
+1068,2024,Colorado St.,10,64
+1067,2024,Connecticut,1,1
+1066,2024,Creighton,3,16
+1065,2024,Dayton,7,32
+1064,2024,Drake,10,64
+1063,2024,Duke,4,8
+1062,2024,Duquesne,11,32
+1061,2024,Florida,7,64
+1060,2024,Florida Atlantic,8,64
+1059,2024,Gonzaga,5,16
+1058,2024,Grambling St.,16,64
+1057,2024,Grand Canyon,12,32
+1056,2024,Houston,1,16
+1054,2024,Illinois,3,8
+1053,2024,Iowa St.,2,16
+1052,2024,James Madison,12,32
+1051,2024,Kansas,4,32
+1050,2024,Kentucky,3,64
+1049,2024,Long Beach St.,15,64
+1048,2024,Longwood,16,64
+1047,2024,Marquette,2,16
+1046,2024,McNeese St.,12,64
+1045,2024,Michigan St.,9,32
+1044,2024,Mississippi St.,8,64
+1042,2024,Morehead St.,14,64
+1041,2024,Nebraska,8,64
+1040,2024,Nevada,10,64
+1039,2024,New Mexico,11,64
+1038,2024,North Carolina,1,16
+1037,2024,North Carolina St.,11,4
+1036,2024,Northwestern,9,32
+1035,2024,Oakland,14,32
+1034,2024,Oregon,11,32
+1033,2024,Purdue,1,2
+1032,2024,Saint Mary's,5,64
+1031,2024,Saint Peter's,15,64
+1030,2024,Samford,13,64
+1029,2024,San Diego St.,5,16
+1028,2024,South Carolina,6,64
+1027,2024,South Dakota St.,15,64
+1026,2024,Stetson,16,64
+1025,2024,TCU,9,64
+1024,2024,Tennessee,2,8
+1023,2024,Texas,7,32
+1022,2024,Texas A&M,9,32
+1021,2024,Texas Tech,6,64
+1020,2024,UAB,12,64
+1019,2024,Utah St.,8,32
+1018,2024,Vermont,13,64
+1016,2024,Wagner,16,64
+1015,2024,Washington St.,7,32
+1014,2024,Western Kentucky,15,64
+1013,2024,Wisconsin,5,64
+1012,2024,Yale,13,32
+1011,2023,Alabama,1,16
+1010,2023,Arizona,2,64
+1009,2023,Arizona St.,11,64
+1008,2023,Arkansas,8,16
+1007,2023,Auburn,9,32
+1006,2023,Baylor,3,32
+1005,2023,Boise St.,10,64
+1004,2023,Colgate,15,64
+1003,2023,College of Charleston,12,64
+1002,2023,Connecticut,4,1
+1001,2023,Creighton,6,8
+1000,2023,Drake,12,64
+999,2023,Duke,5,32
+998,2023,Fairleigh Dickinson,16,32
+997,2023,Florida Atlantic,9,4
+996,2023,Furman,13,32
+995,2023,Gonzaga,3,8
+994,2023,Grand Canyon,14,64
+993,2023,Houston,1,16
+992,2023,Howard,16,64
+991,2023,Illinois,9,64
+990,2023,Indiana,4,32
+989,2023,Iona,13,64
+988,2023,Iowa,8,64
+987,2023,Iowa St.,6,64
+986,2023,Kansas,1,32
+985,2023,Kansas St.,3,8
+984,2023,Kennesaw St.,14,64
+983,2023,Kent St.,13,64
+982,2023,Kentucky,6,32
+981,2023,Louisiana Lafayette,13,64
+980,2023,Marquette,2,32
+979,2023,Maryland,8,32
+978,2023,Memphis,8,64
+977,2023,Miami FL,5,4
+976,2023,Michigan St.,7,16
+974,2023,Missouri,7,32
+973,2023,Montana St.,14,64
+971,2023,North Carolina St.,11,64
+970,2023,Northern Kentucky,16,64
+969,2023,Northwestern,7,32
+968,2023,Oral Roberts,12,64
+967,2023,Penn St.,10,32
+966,2023,Pittsburgh,11,32
+965,2023,Princeton,15,16
+964,2023,Providence,11,64
+963,2023,Purdue,1,64
+962,2023,Saint Mary's,5,32
+961,2023,San Diego St.,5,2
+959,2023,TCU,6,32
+958,2023,Tennessee,4,16
+957,2023,Texas,2,8
+956,2023,Texas A&M,7,64
+955,2023,Texas A&M Corpus Chris,16,64
+953,2023,UC Santa Barbara,14,64
+952,2023,UCLA,2,16
+951,2023,UNC Asheville,15,64
+950,2023,USC,10,64
+949,2023,Utah St.,10,64
+948,2023,VCU,12,64
+947,2023,Vermont,15,64
+946,2023,Virginia,4,64
+945,2023,West Virginia,9,64
+944,2023,Xavier,3,16
+943,2022,Akron,13,64
+942,2022,Alabama,6,64
+941,2022,Arizona,1,16
+940,2022,Arkansas,4,8
+939,2022,Auburn,2,32
+938,2022,Baylor,1,32
+937,2022,Boise St.,8,64
+935,2022,Cal St. Fullerton,15,64
+934,2022,Chattanooga,13,64
+933,2022,Colgate,14,64
+932,2022,Colorado St.,6,64
+931,2022,Connecticut,5,64
+930,2022,Creighton,9,32
+929,2022,Davidson,10,64
+928,2022,Delaware,15,64
+927,2022,Duke,2,4
+926,2022,Georgia St.,16,64
+925,2022,Gonzaga,1,16
+924,2022,Houston,5,8
+923,2022,Illinois,4,32
+922,2022,Indiana,12,64
+921,2022,Iowa,5,64
+920,2022,Iowa St.,11,16
+919,2022,Jacksonville St.,15,64
+918,2022,Kansas,1,1
+917,2022,Kentucky,2,64
+916,2022,Longwood,14,64
+915,2022,Loyola Chicago,10,64
+914,2022,LSU,6,64
+913,2022,Marquette,9,64
+912,2022,Memphis,9,32
+911,2022,Miami FL,10,8
+910,2022,Michigan,11,16
+909,2022,Michigan St.,7,32
+908,2022,Montana St.,14,64
+907,2022,Murray St.,7,32
+906,2022,New Mexico St.,12,32
+905,2022,Norfolk St.,16,64
+904,2022,North Carolina,8,2
+903,2022,Notre Dame,11,32
+902,2022,Ohio St.,7,32
+901,2022,Providence,4,16
+900,2022,Purdue,3,16
+899,2022,Richmond,12,32
+897,2022,Saint Mary's,5,32
+896,2022,Saint Peter's,15,8
+895,2022,San Diego St.,8,64
+894,2022,San Francisco,10,64
+893,2022,Seton Hall,8,64
+892,2022,South Dakota St.,13,64
+891,2022,TCU,9,32
+890,2022,Tennessee,3,32
+889,2022,Texas,6,32
+887,2022,Texas Southern,16,64
+886,2022,Texas Tech,3,16
+885,2022,UAB,12,64
+884,2022,UCLA,4,16
+883,2022,USC,7,64
+882,2022,Vermont,13,64
+881,2022,Villanova,2,4
+880,2022,Virginia Tech,11,64
+879,2022,Wisconsin,3,32
+878,2022,Wright St.,16,64
+876,2022,Yale,14,64
+875,2021,Abilene Christian,14,32
+874,2021,Alabama,2,16
+872,2021,Arkansas,3,8
+871,2021,Baylor,1,1
+870,2021,BYU,6,64
+869,2021,Clemson,7,64
+868,2021,Cleveland St.,15,64
+867,2021,Colgate,14,64
+866,2021,Colorado,5,32
+865,2021,Connecticut,7,64
+864,2021,Creighton,5,16
+863,2021,Drake,11,64
+862,2021,Drexel,16,64
+861,2021,Eastern Washington,14,64
+860,2021,Florida,7,32
+859,2021,Florida St.,4,16
+858,2021,Georgetown,12,64
+857,2021,Georgia Tech,9,64
+856,2021,Gonzaga,1,2
+855,2021,Grand Canyon,15,64
+854,2021,Hartford,16,64
+853,2021,Houston,2,4
+852,2021,Illinois,1,32
+851,2021,Iona,15,64
+850,2021,Iowa,2,32
+849,2021,Kansas,3,32
+848,2021,Liberty,13,64
+847,2021,Loyola Chicago,8,16
+846,2021,LSU,8,32
+845,2021,Maryland,10,32
+844,2021,Michigan,1,8
+842,2021,Missouri,9,64
+841,2021,Morehead St.,14,64
+839,2021,Norfolk St.,16,64
+838,2021,North Carolina,8,64
+837,2021,North Texas,13,32
+836,2021,Ohio,13,32
+835,2021,Ohio St.,2,64
+834,2021,Oklahoma,8,32
+833,2021,Oklahoma St.,4,32
+832,2021,Oral Roberts,15,16
+831,2021,Oregon,7,16
+830,2021,Oregon St.,12,8
+829,2021,Purdue,4,64
+828,2021,Rutgers,10,32
+827,2021,San Diego St.,6,64
+826,2021,St. Bonaventure,9,64
+825,2021,Syracuse,11,16
+824,2021,Tennessee,5,64
+823,2021,Texas,3,64
+822,2021,Texas Southern,16,64
+821,2021,Texas Tech,6,32
+820,2021,UC Santa Barbara,12,64
+819,2021,UCLA,11,4
+818,2021,UNC Greensboro,13,64
+817,2021,USC,6,8
+816,2021,Utah St.,11,64
+815,2021,VCU,10,64
+814,2021,Villanova,5,16
+813,2021,Virginia,4,64
+812,2021,Virginia Tech,10,64
+811,2021,West Virginia,3,32
+809,2021,Winthrop,12,64
+808,2021,Wisconsin,9,32
+807,2019,Abilene Christian,15,64
+806,2019,Arizona St.,11,64
+805,2019,Auburn,5,4
+804,2019,Baylor,9,32
+803,2019,Belmont,11,64
+802,2019,Bradley,15,64
+801,2019,Buffalo,6,32
+800,2019,Cincinnati,7,64
+799,2019,Colgate,15,64
+798,2019,Duke,1,8
+797,2019,Fairleigh Dickinson,16,64
+796,2019,Florida,10,32
+795,2019,Florida St.,4,16
+794,2019,Gardner Webb,16,64
+793,2019,Georgia St.,14,64
+792,2019,Gonzaga,1,8
+791,2019,Houston,3,16
+790,2019,Iona,16,64
+789,2019,Iowa,10,32
+788,2019,Iowa St.,6,64
+787,2019,Kansas,4,32
+786,2019,Kansas St.,4,64
+785,2019,Kentucky,2,8
+784,2019,Liberty,12,32
+783,2019,Louisville,7,64
+782,2019,LSU,3,16
+781,2019,Marquette,5,64
+780,2019,Maryland,6,32
+779,2019,Michigan,2,16
+778,2019,Michigan St.,2,4
+777,2019,Minnesota,10,32
+776,2019,Mississippi,8,64
+775,2019,Mississippi St.,5,64
+774,2019,Montana,15,64
+773,2019,Murray St.,12,32
+772,2019,Nevada,7,64
+771,2019,New Mexico St.,12,64
+770,2019,North Carolina,1,16
+768,2019,North Dakota St.,16,64
+767,2019,Northeastern,13,64
+766,2019,Northern Kentucky,14,64
+765,2019,Ohio St.,11,32
+764,2019,Oklahoma,9,32
+763,2019,Old Dominion,14,64
+762,2019,Oregon,12,16
+760,2019,Purdue,3,8
+759,2019,Saint Louis,13,64
+758,2019,Saint Mary's,11,64
+757,2019,Seton Hall,10,64
+755,2019,Syracuse,8,64
+753,2019,Tennessee,2,16
+752,2019,Texas Tech,3,2
+751,2019,UC Irvine,13,32
+750,2019,UCF,9,32
+749,2019,Utah St.,8,64
+748,2019,VCU,8,64
+747,2019,Vermont,13,64
+746,2019,Villanova,6,32
+745,2019,Virginia,1,1
+744,2019,Virginia Tech,4,16
+743,2019,Washington,9,32
+742,2019,Wisconsin,5,64
+741,2019,Wofford,7,32
+740,2019,Yale,14,64
+739,2018,Alabama,9,32
+738,2018,Arizona,4,64
+736,2018,Arkansas,7,64
+735,2018,Auburn,4,32
+734,2018,Bucknell,14,64
+733,2018,Buffalo,13,32
+732,2018,Butler,10,32
+731,2018,Cal St. Fullerton,15,64
+730,2018,Cincinnati,2,32
+729,2018,Clemson,5,16
+728,2018,College of Charleston,13,64
+727,2018,Creighton,8,64
+726,2018,Davidson,12,64
+725,2018,Duke,2,8
+724,2018,Florida,6,32
+723,2018,Florida St.,9,8
+722,2018,Georgia St.,15,64
+721,2018,Gonzaga,4,16
+720,2018,Houston,6,32
+719,2018,Iona,15,64
+718,2018,Kansas,1,4
+717,2018,Kansas St.,9,8
+716,2018,Kentucky,5,16
+715,2018,Lipscomb,15,64
+713,2018,Loyola Chicago,11,4
+712,2018,Marshall,13,32
+711,2018,Miami FL,6,64
+710,2018,Michigan,3,2
+709,2018,Michigan St.,3,32
+708,2018,Missouri,8,64
+707,2018,Montana,14,64
+706,2018,Murray St.,12,64
+705,2018,Nevada,7,16
+704,2018,New Mexico St.,12,64
+703,2018,North Carolina,2,32
+701,2018,North Carolina St.,9,64
+700,2018,Ohio St.,5,32
+699,2018,Oklahoma,10,64
+698,2018,Penn,16,64
+697,2018,Providence,10,64
+696,2018,Purdue,2,16
+695,2018,Radford,16,64
+694,2018,Rhode Island,7,32
+693,2018,San Diego St.,11,64
+692,2018,Seton Hall,8,32
+691,2018,South Dakota St.,12,64
+690,2018,St. Bonaventure,11,64
+689,2018,Stephen F. Austin,14,64
+688,2018,Syracuse,11,16
+687,2018,TCU,6,64
+686,2018,Tennessee,3,32
+685,2018,Texas,10,64
+684,2018,Texas A&M,7,16
+683,2018,Texas Southern,16,64
+682,2018,Texas Tech,3,8
+680,2018,UMBC,16,32
+679,2018,UNC Greensboro,13,64
+678,2018,Villanova,1,1
+677,2018,Virginia,1,64
+676,2018,Virginia Tech,8,64
+675,2018,West Virginia,5,16
+674,2018,Wichita St.,4,64
+673,2018,Wright St.,14,64
+672,2018,Xavier,1,32
+671,2017,Arizona,2,16
+670,2017,Arkansas,8,32
+669,2017,Baylor,3,16
+668,2017,Bucknell,13,64
+667,2017,Butler,4,16
+666,2017,Cincinnati,6,32
+665,2017,Creighton,6,64
+664,2017,Dayton,7,64
+663,2017,Duke,2,32
+662,2017,East Tennessee St.,13,64
+661,2017,Florida,4,8
+660,2017,Florida Gulf Coast,14,64
+659,2017,Florida St.,3,32
+658,2017,Gonzaga,1,2
+657,2017,Iona,14,64
+656,2017,Iowa St.,5,32
+655,2017,Jacksonville St.,15,64
+654,2017,Kansas,1,8
+653,2017,Kansas St.,11,64
+652,2017,Kent St.,14,64
+651,2017,Kentucky,2,8
+650,2017,Louisville,2,32
+649,2017,Marquette,10,64
+648,2017,Maryland,6,64
+647,2017,Miami FL,8,64
+646,2017,Michigan,7,16
+645,2017,Michigan St.,9,32
+644,2017,Middle Tennessee,12,32
+643,2017,Minnesota,5,64
+642,2017,Mount St. Mary's,16,64
+641,2017,Nevada,12,64
+640,2017,New Mexico St.,14,64
+638,2017,North Carolina,1,1
+636,2017,North Dakota,15,64
+635,2017,Northern Kentucky,15,64
+634,2017,Northwestern,8,32
+633,2017,Notre Dame,5,32
+632,2017,Oklahoma St.,10,64
+631,2017,Oregon,3,4
+630,2017,Princeton,12,64
+628,2017,Purdue,4,16
+627,2017,Rhode Island,11,32
+626,2017,Saint Mary's,7,32
+625,2017,Seton Hall,9,64
+624,2017,SMU,6,64
+623,2017,South Carolina,7,4
+622,2017,South Dakota St.,16,64
+621,2017,Texas Southern,16,64
+620,2017,Troy,15,64
+619,2017,UC Davis,16,64
+618,2017,UCLA,3,16
+617,2017,UNC Wilmington,12,64
+616,2017,USC,11,32
+615,2017,Vanderbilt,9,64
+614,2017,VCU,10,64
+613,2017,Vermont,13,64
+612,2017,Villanova,1,32
+611,2017,Virginia,5,32
+610,2017,Virginia Tech,9,64
+608,2017,West Virginia,4,16
+607,2017,Wichita St.,10,32
+606,2017,Winthrop,13,64
+605,2017,Wisconsin,8,16
+604,2017,Xavier,11,8
+603,2016,Arizona,6,64
+602,2016,Austin Peay,16,64
+601,2016,Baylor,5,64
+600,2016,Buffalo,14,64
+599,2016,Butler,9,32
+598,2016,Cal St. Bakersfield,15,64
+597,2016,California,4,64
+596,2016,Chattanooga,12,64
+595,2016,Cincinnati,9,64
+594,2016,Colorado,8,64
+593,2016,Connecticut,9,32
+592,2016,Dayton,7,64
+591,2016,Duke,4,16
+589,2016,Florida Gulf Coast,16,64
+588,2016,Fresno St.,14,64
+587,2016,Gonzaga,11,16
+586,2016,Green Bay,14,64
+585,2016,Hampton,16,64
+584,2016,Hawaii,13,32
+583,2016,Holy Cross,16,64
+582,2016,Indiana,5,16
+581,2016,Iona,13,64
+580,2016,Iowa,7,32
+579,2016,Iowa St.,4,16
+578,2016,Kansas,1,8
+577,2016,Kentucky,4,32
+576,2016,Little Rock,12,32
+575,2016,Maryland,5,16
+574,2016,Miami FL,3,16
+573,2016,Michigan,11,64
+572,2016,Michigan St.,2,64
+571,2016,Middle Tennessee,15,32
+570,2016,North Carolina,1,2
+569,2016,Northern Iowa,11,32
+568,2016,Notre Dame,6,8
+567,2016,Oklahoma,2,4
+566,2016,Oregon,1,8
+565,2016,Oregon St.,7,64
+564,2016,Pittsburgh,10,64
+563,2016,Providence,9,32
+562,2016,Purdue,5,64
+561,2016,Saint Joseph's,8,32
+560,2016,Seton Hall,6,64
+559,2016,South Dakota St.,12,64
+557,2016,Stephen F. Austin,14,32
+556,2016,Stony Brook,13,64
+555,2016,Syracuse,10,4
+554,2016,Temple,10,64
+553,2016,Texas,6,64
+552,2016,Texas A&M,3,16
+551,2016,Texas Tech,8,64
+549,2016,UNC Asheville,15,64
+548,2016,UNC Wilmington,13,64
+547,2016,USC,8,64
+546,2016,Utah,3,32
+544,2016,VCU,10,32
+543,2016,Villanova,2,1
+542,2016,Virginia,1,8
+541,2016,Weber St.,15,64
+540,2016,West Virginia,3,64
+539,2016,Wichita St.,11,32
+538,2016,Wisconsin,7,16
+537,2016,Xavier,2,32
+536,2016,Yale,12,32
+535,2015,Albany,14,64
+534,2015,Arizona,2,8
+533,2015,Arkansas,5,32
+532,2015,Baylor,3,64
+531,2015,Belmont,15,64
+529,2015,Buffalo,12,64
+528,2015,Butler,6,32
+526,2015,Cincinnati,8,32
+525,2015,Coastal Carolina,16,64
+524,2015,Davidson,10,64
+523,2015,Dayton,11,32
+522,2015,Duke,1,1
+521,2015,Eastern Washington,13,64
+520,2015,Georgetown,4,32
+519,2015,Georgia,10,64
+518,2015,Georgia St.,14,32
+517,2015,Gonzaga,2,8
+516,2015,Hampton,16,64
+515,2015,Harvard,13,64
+514,2015,Indiana,10,64
+513,2015,Iowa,7,32
+512,2015,Iowa St.,3,64
+511,2015,Kansas,2,32
+510,2015,Kentucky,1,4
+509,2015,Lafayette,16,64
+508,2015,Louisville,4,8
+507,2015,LSU,9,64
+505,2015,Maryland,4,32
+504,2015,Michigan St.,7,4
+503,2015,Mississippi,11,64
+502,2015,New Mexico St.,15,64
+501,2015,North Carolina,4,16
+500,2015,North Carolina St.,8,16
+499,2015,North Dakota St.,15,64
+497,2015,Northeastern,14,64
+496,2015,Northern Iowa,5,32
+495,2015,Notre Dame,3,8
+494,2015,Ohio St.,10,32
+493,2015,Oklahoma,3,16
+492,2015,Oklahoma St.,9,64
+491,2015,Oregon,8,32
+490,2015,Providence,6,64
+489,2015,Purdue,9,64
+488,2015,Robert Morris,16,64
+487,2015,San Diego St.,8,32
+486,2015,SMU,6,64
+485,2015,St. John's,9,64
+484,2015,Stephen F. Austin,12,64
+483,2015,Texas,11,64
+482,2015,Texas Southern,15,64
+481,2015,UAB,14,32
+480,2015,UC Irvine,13,64
+479,2015,UCLA,11,16
+478,2015,Utah,5,16
+477,2015,Valparaiso,13,64
+476,2015,VCU,7,64
+475,2015,Villanova,1,32
+474,2015,Virginia,2,32
+473,2015,West Virginia,5,16
+472,2015,Wichita St.,7,16
+471,2015,Wisconsin,1,2
+470,2015,Wofford,12,64
+469,2015,Wyoming,12,64
+468,2015,Xavier,6,16
+467,2014,Albany,16,64
+466,2014,American,15,64
+465,2014,Arizona,1,8
+464,2014,Arizona St.,10,64
+463,2014,Baylor,6,16
+462,2014,BYU,10,64
+461,2014,Cal Poly,16,64
+460,2014,Cincinnati,5,64
+459,2014,Coastal Carolina,16,64
+458,2014,Colorado,8,64
+457,2014,Connecticut,7,1
+456,2014,Creighton,3,32
+455,2014,Dayton,11,8
+454,2014,Delaware,13,64
+453,2014,Duke,3,64
+452,2014,Eastern Kentucky,15,64
+451,2014,Florida,1,4
+450,2014,George Washington,9,64
+449,2014,Gonzaga,8,32
+448,2014,Harvard,12,32
+446,2014,Iowa St.,3,16
+445,2014,Kansas,2,32
+444,2014,Kansas St.,9,64
+443,2014,Kentucky,8,2
+442,2014,Louisiana Lafayette,14,64
+441,2014,Louisville,4,16
+440,2014,Manhattan,13,64
+439,2014,Massachusetts,6,64
+438,2014,Memphis,8,32
+437,2014,Mercer,14,32
+436,2014,Michigan,2,8
+435,2014,Michigan St.,4,8
+434,2014,Milwaukee,15,64
+432,2014,Nebraska,11,64
+431,2014,New Mexico,7,64
+430,2014,New Mexico St.,13,64
+429,2014,North Carolina,6,32
+428,2014,North Carolina Central,14,64
+427,2014,North Carolina St.,12,64
+426,2014,North Dakota St.,12,32
+425,2014,Ohio St.,6,64
+424,2014,Oklahoma,5,64
+423,2014,Oklahoma St.,9,64
+422,2014,Oregon,7,32
+421,2014,Pittsburgh,9,32
+420,2014,Providence,11,64
+419,2014,Saint Joseph's,10,64
+418,2014,Saint Louis,5,32
+417,2014,San Diego St.,4,16
+416,2014,Stanford,10,16
+415,2014,Stephen F. Austin,12,32
+414,2014,Syracuse,3,32
+413,2014,Tennessee,11,16
+412,2014,Texas,7,32
+410,2014,Tulsa,13,64
+409,2014,UCLA,4,16
+408,2014,VCU,5,64
+407,2014,Villanova,2,32
+406,2014,Virginia,1,16
+405,2014,Weber St.,16,64
+404,2014,Western Michigan,14,64
+403,2014,Wichita St.,1,32
+402,2014,Wisconsin,2,4
+401,2014,Wofford,15,64
+399,2013,Akron,12,64
+398,2013,Albany,15,64
+397,2013,Arizona,6,16
+396,2013,Belmont,11,64
+394,2013,Bucknell,11,64
+393,2013,Butler,6,32
+392,2013,California,12,32
+391,2013,Cincinnati,10,64
+390,2013,Colorado,10,64
+389,2013,Colorado St.,8,32
+388,2013,Creighton,7,32
+387,2013,Davidson,14,64
+386,2013,Duke,2,8
+385,2013,Florida,3,8
+384,2013,Florida Gulf Coast,15,16
+383,2013,Georgetown,2,64
+382,2013,Gonzaga,1,32
+381,2013,Harvard,14,32
+380,2013,Illinois,7,32
+379,2013,Indiana,1,16
+378,2013,Iona,15,64
+377,2013,Iowa St.,10,32
+376,2013,James Madison,16,64
+375,2013,Kansas,1,16
+374,2013,Kansas St.,4,64
+373,2013,La Salle,13,16
+370,2013,Louisville,1,1
+369,2013,Marquette,3,8
+368,2013,Memphis,6,32
+367,2013,Miami FL,2,16
+366,2013,Michigan,4,2
+365,2013,Michigan St.,3,16
+363,2013,Minnesota,11,32
+362,2013,Mississippi,12,32
+361,2013,Missouri,9,64
+360,2013,Montana,13,64
+359,2013,New Mexico,3,64
+358,2013,New Mexico St.,13,64
+357,2013,North Carolina,8,32
+356,2013,North Carolina A&T,16,64
+355,2013,North Carolina St.,8,64
+354,2013,Northwestern St.,14,64
+353,2013,Notre Dame,7,64
+352,2013,Ohio St.,2,8
+351,2013,Oklahoma,10,64
+350,2013,Oklahoma St.,5,64
+349,2013,Oregon,12,16
+348,2013,Pacific,15,64
+347,2013,Pittsburgh,8,64
+346,2013,Saint Louis,4,32
+345,2013,Saint Mary's,11,64
+344,2013,San Diego St.,7,32
+343,2013,South Dakota St.,13,64
+342,2013,Southern,16,64
+341,2013,Syracuse,4,4
+340,2013,Temple,9,32
+339,2013,UCLA,6,64
+338,2013,UNLV,5,64
+337,2013,Valparaiso,14,64
+336,2013,VCU,5,32
+335,2013,Villanova,9,64
+334,2013,Western Kentucky,16,64
+333,2013,Wichita St.,9,4
+332,2013,Wisconsin,5,64
