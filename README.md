@@ -57,7 +57,7 @@ pip install pandas numpy scikit-learn matplotlib
 python --version
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Data Processing
 ```python
