@@ -1,10 +1,6 @@
 # march-madness-prediction-2025
 
-A comprehensive machine learning project for predicting NCAA Men's Basketball Tournament (March Madness) outcomes using advanced statistical modeling and bracket simulation.
-
-## Project Overview
-
-This project uses machine learning algorithms to predict March Madness tournament results by analyzing historical basketball data, team statistics, and performance metrics. The system can simulate entire tournament brackets and evaluate model performance against actual tournament outcomes.
+Project undertaken utilizing machine learning to predict the 2025 march madness basketball tournament, includes an innovative top-down approach and voting from multiple models trained on different years.
 
 ### Key Features
 
@@ -169,5 +165,3 @@ The project processes various basketball statistics including:
 - Player statistics and ratings
 - Conference strength indicators
 - Historical tournament performance
-
-*"The beauty of March Madness lies in its unpredictability, but with data and machine learning, we can better understand the madness."*
